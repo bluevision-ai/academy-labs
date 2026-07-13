@@ -30,7 +30,7 @@ LLM/session01/session01_lab.ipynb
 
 | Course | Session | Video | Notebook |
 |---|---|---|---|
-| _(none released yet)_ | | | |
+| Standalone | Retrieval: Finding Similar Items Without Labels | [Watch](https://www.youtube.com/watch?v=S3EEnQK2IJ4) | [Open notebook](Standalone/retrieval/retrieval_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/Standalone/retrieval/retrieval_lab.ipynb) |
 
 ## License
 

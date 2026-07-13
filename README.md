@@ -4,7 +4,7 @@ Free, self-contained Colab notebooks that go with the [Bluevision AI](https://ww
 
 Our goal is to help you become a creator of AI, not simply a user: every lecture's notebook lets you code the idea yourself.
 
-Each notebook is released when its matching video goes public. Open it directly in Colab, no setup required.
+Notebooks are pushed here as soon as each session is ready, independent of when the matching video is published. Open a notebook directly in Colab, no setup required.
 
 ## Structure
 
@@ -31,6 +31,7 @@ LLM/session01/session01_lab.ipynb
 | Course | Session | Video | Notebook |
 |---|---|---|---|
 | Standalone | Retrieval: Finding Similar Items Without Labels | [Watch](https://www.youtube.com/watch?v=S3EEnQK2IJ4) | [Open notebook](Standalone/retrieval/retrieval_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/Standalone/retrieval/retrieval_lab.ipynb) |
+| Standalone | k-Means: Finding Groups Without Labels | [Watch](https://www.youtube.com/watch?v=IOmDtpY2nXk) | [Open notebook](Standalone/k-means/k-means_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/Standalone/k-means/k-means_lab.ipynb) |
 
 ## License
 

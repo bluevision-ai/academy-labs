@@ -34,6 +34,7 @@ LLM/session01/session01_lab.ipynb
 | ml-foundations | k-Means: Finding Groups Without Labels | [Watch](https://www.youtube.com/watch?v=IOmDtpY2nXk) | [Open notebook](ml-foundations/k-means/k-means_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/ml-foundations/k-means/k-means_lab.ipynb) |
 | ml-foundations | Gaussian Mixture Models: Soft Clustering with EM | [Watch](https://www.youtube.com/watch?v=NaiTco_yJrA) | [Open notebook](ml-foundations/gaussian-mixtures/gaussian-mixtures_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/ml-foundations/gaussian-mixtures/gaussian-mixtures_lab.ipynb) |
 | LLM | Session 01 — Why Language Is Hard | [Watch](https://www.youtube.com/watch?v=reWtLSQwy0w) | [Open notebook](LLM/session01/session01_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session01/session01_lab.ipynb) |
+| LLM | Session 04 — The Attention Breakthrough | [Watch](https://youtu.be/YKDHcsMEADw) | [Open notebook](LLM/session04/session04_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session04/session04_lab.ipynb) |
 
 ## License
 

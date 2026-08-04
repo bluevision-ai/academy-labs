@@ -36,6 +36,7 @@ LLM/session01/session01_lab.ipynb
 | LLM | Session 01 — Why Language Is Hard | [Watch](https://www.youtube.com/watch?v=reWtLSQwy0w) | [Open notebook](LLM/session01/session01_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session01/session01_lab.ipynb) |
 | LLM | Session 04 — The Attention Breakthrough | [Watch](https://youtu.be/YKDHcsMEADw) | [Open notebook](LLM/session04/session04_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session04/session04_lab.ipynb) |
 | LLM | Session 05 — The Transformer Architecture | [Watch](https://youtu.be/-FhUEaRb_Ik) | [Open notebook](LLM/session05/session05_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session05/session05_lab.ipynb) |
+| LLM | Session 06 — BERT: Reading the Whole Sentence | [Watch](https://youtu.be/IAjdK89WVYc) | [Open notebook](LLM/session06/session06_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session06/session06_lab.ipynb) |
 
 ## License
 

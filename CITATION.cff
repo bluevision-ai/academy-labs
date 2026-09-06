@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "Bluevision AI Academy — Labs"
+message: >-
+  If you use these notebooks, please cite them as below. If you are citing the
+  lecture a notebook accompanies rather than the code itself, cite the course or
+  session — see the "Citing the lectures" note at the bottom of this file.
+type: software
+authors:
+  - family-names: Seydi
+    given-names: Vahid
+    affiliation: "Bluevision AI Ltd"
+    orcid: "https://orcid.org/0000-0001-5702-2209"
+license: MIT
+url: "https://www.youtube.com/@BlueVision-AI"
+repository-code: "https://github.com/bluevision-ai/academy-labs"
+date-released: 2026-07-13
+keywords:
+  - machine learning
+  - artificial intelligence
+  - large language models
+  - jupyter notebooks
+  - teaching materials
+
+# ---------------------------------------------------------------------------
+# Two things live side by side, under two licences:
+#
+#   * The NOTEBOOKS in this repository are MIT (see LICENSE) — reuse, adapt and
+#     remix freely.
+#   * The LECTURES they accompany — slides, figures, narration, video — are
+#     CC BY 4.0, which requires attribution. Reusing a figure from a lecture is
+#     not covered by this repository's MIT licence.
+#
+# Citing the lectures:
+#
+#   Seydi, V. (2026). Session NN: <Title> [Video lecture]. <Course Name>.
+#   Bluevision AI. <video URL, or DOI once the Zenodo deposit exists>
+#
+# ---------------------------------------------------------------------------

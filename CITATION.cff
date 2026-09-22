@@ -27,12 +27,18 @@ keywords:
 #   * The NOTEBOOKS in this repository are MIT (see LICENSE) — reuse, adapt and
 #     remix freely.
 #   * The LECTURES they accompany — slides, figures, narration, video — are
-#     CC BY 4.0, which requires attribution. Reusing a figure from a lecture is
+#     CC BY 4.0 (Foundations of Machine Learning: CC BY-NC 4.0), which requires
+#     attribution. Reusing a figure from a lecture is
 #     not covered by this repository's MIT licence.
 #
 # Citing the lectures:
 #
 #   Seydi, V. (2026). Session NN: <Title> [Video lecture]. <Course Name>.
-#   Bluevision AI. <video URL, or DOI once the Zenodo deposit exists>
+#   Bluevision AI. <video URL>
+#
+# Foundations of Machine Learning is the exception: cite its companion BOOK
+# (or the chapter), not the video. The current reference is always on
+# https://books.bluevision-ai.org/ml-foundations/ . Its lectures are
+# CC BY-NC 4.0, not CC BY 4.0.
 #
 # ---------------------------------------------------------------------------

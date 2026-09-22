@@ -49,6 +49,9 @@ Two things live side by side here, under two licences:
   Slides, figures, diagrams, narration and video may be reused and adapted, including commercially,
   **provided you give credit**. Copying a figure out of a lecture is not covered by the MIT licence
   above.
+- **Exception — *Foundations of Machine Learning*: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).**
+  Its lectures may be reused and adapted with credit for **non-commercial** purposes, including
+  teaching at any university or school.
 
 ## Citing this work
 
@@ -67,6 +70,9 @@ Cite the **lecture**, not the notebook, unless you are specifically citing the c
 }
 ```
 
+*Foundations of Machine Learning* is the exception: cite its **companion book** (or the chapter
+you used), not the video. The reference that is correct today is always on
+<https://books.bluevision-ai.org/ml-foundations/>.
+
 GitHub's "Cite this repository" button (from [`CITATION.cff`](CITATION.cff)) gives the notebook
-citation in APA and BibTeX. Per-session DOIs are planned; once a session has one, prefer the DOI
-over the video URL.
+citation in APA and BibTeX.

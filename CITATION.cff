@@ -2,8 +2,8 @@ cff-version: 1.2.0
 title: "Bluevision AI Academy — Labs"
 message: >-
   If you use these notebooks, please cite them as below. If you are citing the
-  lecture a notebook accompanies rather than the code itself, cite the course or
-  session — see the "Citing the lectures" note at the bottom of this file.
+  lecture a notebook accompanies rather than the code itself, cite its companion
+  book — see the "Citing the lectures" note at the bottom of this file.
 type: software
 authors:
   - family-names: Seydi
@@ -27,18 +27,14 @@ keywords:
 #   * The NOTEBOOKS in this repository are MIT (see LICENSE) — reuse, adapt and
 #     remix freely.
 #   * The LECTURES they accompany — slides, figures, narration, video — are
-#     CC BY 4.0 (Foundations of Machine Learning: CC BY-NC 4.0), which requires
-#     attribution. Reusing a figure from a lecture is
-#     not covered by this repository's MIT licence.
+#     CC BY-NC 4.0: reuse with credit, non-commercially. Reusing a figure from a
+#     lecture is not covered by this repository's MIT licence. (The Large
+#     Language Models lectures were CC BY 4.0 until 23 October 2026; copies
+#     obtained before then keep that licence.)
 #
-# Citing the lectures:
-#
-#   Seydi, V. (2026). Session NN: <Title> [Video lecture]. <Course Name>.
-#   Bluevision AI. <video URL>
-#
-# Foundations of Machine Learning is the exception: cite its companion BOOK
-# (or the chapter), not the video. The current reference is always on
-# https://books.bluevision-ai.org/ml-foundations/ . Its lectures are
-# CC BY-NC 4.0, not CC BY 4.0.
+# Citing the lectures: cite the companion BOOK (or the chapter), not the
+# video. The current reference is always on the book page:
+#   https://books.bluevision-ai.org/LLM/
+#   https://books.bluevision-ai.org/ml-foundations/
 #
 # ---------------------------------------------------------------------------

@@ -38,7 +38,7 @@ LLM/session01/session01_lab.ipynb
 | LLM | Session 04 — The Attention Breakthrough | [Watch](https://youtu.be/EsVmIvvJgVg) | [Open notebook](LLM/session04/session04_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session04/session04_lab.ipynb) |
 | LLM | Session 05 — The Transformer Architecture | [Watch](https://youtu.be/qhH8gZ8kYwA) | [Open notebook](LLM/session05/session05_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session05/session05_lab.ipynb) |
 | LLM | Session 06 — BERT and Masked Language Modelling | [Watch](https://youtu.be/iRq26bI2ugQ) | [Open notebook](LLM/session06/session06_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session06/session06_lab.ipynb) |
-| LLM | Session 07 — GPT: Predicting What Comes Next | [Watch](https://youtu.be/5gzaBos-BxM) | [Open notebook](LLM/session07/session07_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session07/session07_lab.ipynb) |
+| LLM | Session 07 — GPT: Predicting What Comes Next | [Watch](https://youtu.be/0QYven2_ek4) | [Open notebook](LLM/session07/session07_lab.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bluevision-ai/academy-labs/blob/main/LLM/session07/session07_lab.ipynb) |
 
 ## Licence
 
